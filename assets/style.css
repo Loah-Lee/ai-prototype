@@ -81,3 +81,22 @@ textarea {
        border-radius:12px; 
        text-align:center; 
    }
+div.block-container {
+  padding-top: 2rem;
+  padding-bottom: 3rem;
+}
+
+div[data-testid="stMetric"] {
+  background: #f8fafc;
+  border: 1px solid #d7e2f0;
+  border-radius: 14px;
+  padding: 0.75rem 1rem;
+}
+
+section[data-testid="stSidebar"] {
+  background: linear-gradient(180deg, #f4f8ff 0%, #eef2f8 100%);
+}
+
+button[kind="primary"] {
+  background: linear-gradient(90deg, #174ea6 0%, #2d6cdf 100%);
+}

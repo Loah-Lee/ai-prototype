@@ -1,0 +1,9 @@
+.git
+.gitignore
+.DS_Store
+.venv
+__pycache__
+*.pyc
+data/predictions.csv
+data/saved_digits
+models
